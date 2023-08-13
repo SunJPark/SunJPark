@@ -1,13 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&animation=fadeIn&color=auto&height=300&section=header&text=Welcome%20To%20Jungle&fontSize=90)
 
-
-
-
+# 🆒  Ctrl + C 🦦 Ctrl + V!👍
+***
 SNS  
-[![Static Badge](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srill01/ "instagram link")
+[![Static Badge](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srill01/ "instagram link") [![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:srill9403@gmail.com "gmail link")
 
 
-[![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:srill9403@gmail.com "gmail link")
+
 
 
 Tech  
@@ -19,6 +18,8 @@ https://github.com/kyechan99/capsule-render
 https://shields.io/badges
 
 https://simpleicons.org/
+
+https://www.emojicopy.com/
 
 
 - 🔭 I’m currently working on ...
