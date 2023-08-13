@@ -4,9 +4,11 @@
 
 
 SNS  
-[![Static Badge](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srill01/ "google link")
+[![Static Badge](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srill01/ "instagram link")
 
-![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)
+
+[![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:srill9403@gmail.com "gmail link")
+
 
 Tech  
 ![Static Badge](https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
